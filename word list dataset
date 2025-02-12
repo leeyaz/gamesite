@@ -1,0 +1,27 @@
+row, word, category
+1, cinegenic, palindrome
+2, civic, palindrome
+3, deified, palindrome
+4, kayak, palindrome
+5, racecar, palindrome
+6, radar, palindrome
+7, reviver, palindrome
+8, rotator, palindrome
+9, saippuakivikauppias, palindrome
+10, solos, palindrome
+11, adagio, music theory
+12, allegro, music theory
+13, arpeggio, music theory
+14, cadenza, music theory
+15, crescendo, music theory
+16, enharmonic, music theory
+17, fermata, music theory
+18, interval, music theory
+19, octave, music theory
+20, transposition, music theory
+21, a la mode, french loan word
+22, bourguignon, french loan word
+23, creme brulee, french loan word
+24, deja vu, french loan word
+25, mille-feuille, french loan word
+26, rendez vous, french loan word
