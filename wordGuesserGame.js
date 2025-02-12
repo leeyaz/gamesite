@@ -1,6 +1,6 @@
 
 console.log("Hello World!")
-
+console.log("yay!")
 //select mystery word from datasheet
 
 //ask to guess mystery word, give hints with each guess, eg: smth letters away, how many correct vowels
