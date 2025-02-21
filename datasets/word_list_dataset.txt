@@ -1,4 +1,4 @@
-row, word, category
+index, word, category
 1, cinegenic, palindrome
 2, civic, palindrome
 3, deified, palindrome
