@@ -1,0 +1,33 @@
+{
+  "name": "gamesite",
+  "version": "1.0.0",
+  "description": "fun little mini game site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyaz/gamesite.git"
+  },
+  "keywords": [
+    "gamesite",
+    "game",
+    "site"
+  ],
+  "author": "leeya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeyaz/gamesite/issues"
+  },
+  "homepage": "https://github.com/leeyaz/gamesite#readme",
+  "devDependencies": {
+    "git-scripts": "^0.6.4",
+    "surge": "^0.24.6"
+  },
+  "git": {
+    "scripts": {
+      "pre-push": "surge --project ./ --domain gamesite.surge.sh"
+    }
+  }
+}
